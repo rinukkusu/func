@@ -4,7 +4,7 @@
 
 /// Typedefs defining commonly used function types to make it simpler to
 /// define members that return specific function types.
-library func;
+library func2;
 
 typedef R Func0<R>();
 typedef R Func1<A, R>(A a);
